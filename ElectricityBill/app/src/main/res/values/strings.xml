@@ -1,0 +1,18 @@
+<resources>
+    <!-- Application name -->
+    <string name="ElectricityTension">Electricity Tension</string>
+
+    <!-- Titles -->
+    <string name="calculate_bill_title">Electricity Cost Calculator</string>
+    <string name="about_us_title">About Me</string>
+
+    <!-- Buttons -->
+    <string name="calculate_button">CALCULATE</string>
+    <string name="clear_button">CLEAR</string>
+
+    <!-- Labels -->
+    <string name="total_consumption_label">Number of Electricity (kWh):</string>
+    <string name="rebate_amount_label">Rebate Percentage (%):</string>
+    <string name="your_estimated_bill">Your estimated bill is RM</string>
+
+</resources>
